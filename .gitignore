@@ -16,3 +16,5 @@ profile
 *.moved-aside
 DerivedData
 .idea/
+
+# http://stackoverflow.com/questions/49478/git-ignore-file-for-xcode-projects
